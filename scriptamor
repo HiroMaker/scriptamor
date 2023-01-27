@@ -1,4 +1,4 @@
 #!/bin/bash
-for ((i=0; i<=1000; i++)){
-     echo "aleatório"
+for ((i=0; i<=100000; i++)){
+     echo "TE AMO"
 }
